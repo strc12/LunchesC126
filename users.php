@@ -15,7 +15,7 @@
         Password: <input type="password" name="password"><br>
         Role: 
         <input type="radio" name="role" value="student" checked> Student
-        <input type="radio" name="role" value="teacher"> Teacher<br>
+        <input type="radio" name="role" value="kitchen"> Kitchen staff<br>
         <input type="submit" value="Add User">
     </form>
 </body>
